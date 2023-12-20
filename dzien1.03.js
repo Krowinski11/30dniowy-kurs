@@ -1,0 +1,12 @@
+let firstName = 'Kacper'    // first name of a person
+let lastName = '-'      // last name of a person
+let country = 'Polska'       // country
+let city = 'Lubień Kujawski'         // capital city
+let age = 17                 // age in years
+let isMarried = false
+const gravity = 9.81         // earth gravity  in m/s2
+const boilingPoint = 17     // water boiling point, temperature in oC
+const PI = 3.14              // geometrical constant
+let name = 'Kacper',     //name of a person
+  job = 'uczen',
+  live = 'Polska'

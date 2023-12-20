@@ -1,0 +1,1 @@
+console.log('widaj w 30dniowym okresie przygotowań ')
